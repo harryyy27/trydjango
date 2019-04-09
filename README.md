@@ -1,5 +1,5 @@
 # trydjango
-Setting up Django server for the first time. This should be the instructions to clone the project.
+Setting up Django server for the first time. These should be the instructions to clone the project.
 
 1. git clone https://github.com/harryyy27/trydjango
 2. virtualenv -p python 3
